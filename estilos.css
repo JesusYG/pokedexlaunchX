@@ -1,0 +1,81 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #fff;
+}
+
+.container{
+	width: 900px;
+	margin: 0px auto;
+	background: #CE1131;
+	padding-top: 10px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 30px;
+}
+
+.logizq{
+	margin-left: 50px;
+}
+
+h1{
+	font-size: 1.8em;
+	font-weight: normal;
+	color: #fff;
+	margin-left: 330px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.compara{
+	text-decoration: underline;
+	font-size: 1.3em;
+	font-weight: lighter;
+	color: #fff;
+	margin-left: 330px;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+	font-size: 1.3em;
+	font-weight: normal;
+	color: #fff;
+	font-family: monospace;
+	font-weight: bold;
+	margin-left: 32px;
+}
+
+.clearboth{
+	clear: both;
+}
+
+.linea{
+	width: 100%;
+}
+
+figure{
+	width: 32%;
+	float: left;
+	margin-bottom: 10px;
+	margin-left: 1%;
+}
+
+figure img{
+	width: 100%;
+	border-radius: 15px;
+	margin-bottom: 10px;
+}
+
+figcaption{
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+}
+
+input, button{
+	margin-left: 70px;
+}
